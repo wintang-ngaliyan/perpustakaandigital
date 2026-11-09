@@ -19,6 +19,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Ayat-ayat api](ebook/Ayat-ayat api.pdf) - Sapardi Djoko Damono (2017)
 9. [An Introduction to Functional Grammar](ebook/An Introduction to Functional Grammar.pdf) - M.A.K Halliday (1994)
 10. [Hello Cello](ebook/Hello Cello.pdf) - Nadia Ristivani (2022)
+11. [RINGKASAN UGC Transforming Libraries Through Information Technology](ebook/RINGKASAN UGC Transforming Libraries Through Information Technology.pdf) - Wintang Permata Pertiwi (2026)
 
 ---
 *Powered by GitHub Pages*
